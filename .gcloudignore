@@ -1,0 +1,6 @@
+.git
+node_modules
+dist
+*.log
+.sa-key.json
+.env
